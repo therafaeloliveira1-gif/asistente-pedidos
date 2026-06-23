@@ -1,3 +1,3 @@
-# Asistente de Pedidos - Motos Mendes
+# Asistente de Pedidos -
 
-Este repositorio se utiliza únicamente para gestionar el sistema de distribución y actualizaciones automáticas de la aplicación de escritorio. El código fuente se mantiene de forma privada y local.
+Este repositorio se utiliza únicamente para gestionar  actualizaciones automáticas de la aplicación de escritorio.
